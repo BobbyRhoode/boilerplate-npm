@@ -1,9 +1,8 @@
 {
 	"author": "Joaquín Ibáñez",
-	
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.19.2"
 	},
 	"main": "server.js",
 	"scripts": {
